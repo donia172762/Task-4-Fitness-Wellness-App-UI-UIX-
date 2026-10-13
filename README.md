@@ -1,4 +1,5 @@
 BLOOM FIT
+
 Fitness & Wellness Mobile App — UI/UX Design
 Where your best self takes shape.
 BLOOM FIT is a mobile app concept that helps users build healthier habits through daily activity tracking, workout discovery, and clear progress summaries. Its warm, minimal visual style makes the experience feel calm and encouraging.
